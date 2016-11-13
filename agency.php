@@ -51,7 +51,7 @@
             <div class="row column text-center">
                 <h1>Changing the World Through Design</h1>
                 <i id="s0" class="fa fa-pencil buttons" aria-hidden="true"></i>
-                <p class="lead" id="ps0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.</p>
+                <p class="lead" id="ps0"></p>
                 
                 <a href="#" class="button large">Learn More</a>
                 <a href="#" class="button large hollow">Learn Less</a>
@@ -64,19 +64,19 @@
             <div class="medium-6 columns medium-pull-6">
                 <h2>Our Agency, our selves.</h2>
                 <i id="s1" class="fa fa-pencil buttons" aria-hidden="true"></i>
-                <p id="ps1">Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor.</p>
+                <p id="ps1"></p>
             </div>
         </div>
         <div class="row">
             <div class="medium-4 columns">
                 <h3>Photoshop</h3>
                 <i id="s2" class="fa fa-pencil buttons" aria-hidden="true"></i>
-                <p id="ps2">Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+                <p id="ps2"></p>
             </div>
             <div class="medium-4 columns">
                 <h3>Javascript</h3>
                 <i id="s3" class="fa fa-pencil buttons" aria-hidden="true"></i>
-                <p id="ps3">Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+                <p id="ps3"></p>
             </div>
             <div class="medium-4 columns">
                 <h3>Marketing</h3>
