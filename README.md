@@ -17,7 +17,7 @@ In the actual element you want to change, add another id that corresponds to the
  
  
  
- Finally make sure a corresponding space exists within the json file.
+ Finally make sure a corresponding space exists within the json file. Take a look  at the acual data.json file as the one below is not displayed that same as the actual file.
  
 [
 {
