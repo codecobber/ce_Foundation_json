@@ -36,7 +36,7 @@ In the actual element you want to change, add another id that corresponds to the
 
 To edit an element in the broweser, select the burger menu and then the 'Edit' link. This will activate all the editable areas you designated previously. A pencil icon will appear for each are. Select an icon and a highlighted ediatble box will appear for you to type in.
 
-Once edit is complete select the pencil icon again to close and save the individual ediatble are. To close all areas and hide the pencil icons select 'edit' again from the slide menu.
+Once edit is complete select the pencil icon again to close and save the individual ediatble area. To close all areas and hide the pencil icons select 'edit' again from the slide menu.
 
 
 
